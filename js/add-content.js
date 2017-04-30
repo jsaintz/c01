@@ -1,4 +1,4 @@
-//verifica a hora de hoje
+//verifica a Data de hoje
 var today = new Date();
 
 //retornar o horário atual
