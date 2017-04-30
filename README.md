@@ -1,2 +1,2 @@
 # c01
-Primeiro exercico Javascritp/Jquery
+Primeiro exercício Javascritp/Jquery
